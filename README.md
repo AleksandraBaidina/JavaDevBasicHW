@@ -1,1 +1,1 @@
-# JavaDevBasicHW2
+#Otus Java Developer Basic
